@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Deploy realizado pelo HEROKU. Teste ISAC, Rs, rs..."/>
+    <HelloWorld msg="Deploy realizado pelo HEROKU => Aplicação VUE.JS"/>
   </div>
 </template>
 
