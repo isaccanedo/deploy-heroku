@@ -1,6 +1,6 @@
-# helloworld
+# Aplicação básica, construída em Vue.Js, apenas para testar o deploy na plataforma Cloud do Heroku.
 
-### Para executar
+### Para ver o deploy em funcionamento, acesse a URL abaixo:
 https://isac-hello.herokuapp.com/
 
 ## Project setup
