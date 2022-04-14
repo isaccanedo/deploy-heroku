@@ -1,4 +1,4 @@
-# Aplicação básica, construída em Vue.Js, apenas para testar o deploy na plataforma Cloud do Heroku.
+# Aplicação padrão, construída em Vue.Js, apenas para testar o deploy na plataforma Cloud do Heroku.
 
 ### Para ver o deploy em funcionamento, acesse a URL abaixo:
 https://isac-hello.herokuapp.com/
